@@ -1,0 +1,26 @@
+.main-content{
+    background-color: #202329;
+    color: #ffffff;
+    padding: 40px ;
+    height: 480px;
+    background-image: url('./../../logo.svg');
+    background-repeat: no-repeat;
+    background-position: 360px;
+    
+    
+}
+
+h1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+ul{
+    
+    padding-left: 50px;
+}
+
+li::marker{
+    font-size: 1.8em;
+    color:#61DAFB;
+}
